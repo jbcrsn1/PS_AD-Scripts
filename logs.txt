@@ -1,0 +1,57 @@
+ADTool by jbcrsn1
+Change logs:
+
+********************************************************************************************************
+ADTool Pro v1.1
+
+*Added OU Manager Tab
+	> Client's OU data grid
+	> Selected Client's information
+	> Users under OU
+	> Provision OU function
+	> Transfer Users and Computers to Client's OU function
+*Added auto move function on Enabled check box (will automatically move user to OU of current status)
+*Fixed OU Mapping - Fetch OU paths from AD instead of predefined paths
+*Fixed UI and messages alignment
+*Fixed object sequence when pressing tab
+********************************************************************************************************
+ADTool v2.1
+
+*Added placeholder effect on Text Fields
+*Added Reset password function in Modify User Tab
+*Fixed Country combobox properties in Provision tool
+*Replaced Label to TextBlock for Address info in Modify user
+*Can now search keyword (Name) in Text field instead of username
+********************************************************************************************************
+ADTool v1.3
+
+*Added Address field in Provision tool
+*Fixed Name field in Provision tool - Split into First and Last name
+*Fixed OU assignment field - Added OU Mapping
+*Fixed Manager field - can now assign a manager using SamAccountName
+*Fixed Website field - Website are now showing in the actual Active Diectory
+*Fixed Message field in Modify user tab
+********************************************************************************************************
+ADTool v1.2
+
+*Added Tab Control
+*Added Provision user tab (Beta)
+*Added Create user function (Beta)
+	>Name
+	>Password
+	>Username
+	>Job Title
+	>Department
+	>Company
+	>Manager
+	>Tel No.
+	>Email
+	>Website
+	>Country
+	>OU
+*Adjusted UI alignment
+*Fixed minor errors
+********************************************************************************************************
+ADTool v1
+
+*Base build version, limited function only.
